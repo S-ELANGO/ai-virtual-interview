@@ -41,4 +41,16 @@ The goal is to demonstrate skills in **AI, Machine Learning, React, Firebase, an
 ---
 
 ## 📂 Folder Structure (Day 1)
+ai-virtual-interview/
+└── frontend/
+├── index.html
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── tsconfig.json
+├── src/
+│ ├── App.tsx # Clean starting point
+│ ├── index.css # Tailwind styles
+│ └── main.tsx
+└── node_modules/
 
